@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aurora</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_maps">Maps</string>
+    <string name="nav_weather">Weather</string>
+    <string name="nav_ai">AI</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+</resources>

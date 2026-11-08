@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">অরোরা</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_maps">ম্যাপস</string>
+    <string name="nav_weather">আবহাওয়া</string>
+    <string name="nav_ai">এআই</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="nav_settings">সেটিংস</string>
+</resources>

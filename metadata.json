@@ -1,0 +1,6 @@
+{
+  "name": "Aurora",
+  "description": "Aurora Obsidian 3-in-1 Super App: Unified Maps & Navigation, Real-time Weather Center, and Gemini AI Assistant with Bengali and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
